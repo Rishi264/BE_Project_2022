@@ -4,3 +4,6 @@ Dataset link: https://drive.google.com/drive/folders/1_iCaKGmQpaaDTMTX0GhY4RH5eJ
 
 Training model
  Run the Yolov5.ipynb
+
+Youtube link for Project Explaination:
+https://youtu.be/__h2NKlashM?si=EcLey569oi634NqL
